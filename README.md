@@ -22,7 +22,7 @@ It contains no product source code, firmware, hardware design files or duplicate
 
 The AURIORA Engineering Standard is the constitutional engineering reference of the platform; the companion guides define domain-specific practice. AES defines *what* must be true about AURIORA engineering work; the companions define *how* it is done in their domain. Where a companion and AES conflict, AES prevails.
 
-Since version 1.1.0, the standards scale their requirements with a three-level maturity model — **Experimental**, **Active Development**, **Released** — so prototypes stay lightweight while public releases remain reproducible.
+The standards scale their requirements with a three-level maturity model — **Experimental**, **Active Development**, **Released** — so prototypes stay lightweight while public releases remain reproducible.
 
 ```text
 AURIORA Engineering Standard (AES)
