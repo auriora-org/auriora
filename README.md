@@ -20,7 +20,9 @@ It contains no product source code, firmware, hardware design files or duplicate
 
 ## Standards and guides
 
-The AURIORA Engineering Standard is the constitutional engineering reference of the platform; the companion guides define domain-specific practice. AES defines *what* must be done during development; the companions define *how* it is done in their domain. Where a companion and AES conflict, AES prevails.
+The AURIORA Engineering Standard is the constitutional engineering reference of the platform; the companion guides define domain-specific practice. AES defines *what* must be true about AURIORA engineering work; the companions define *how* it is done in their domain. Where a companion and AES conflict, AES prevails.
+
+Since version 1.1.0, the standards scale their requirements with a three-level maturity model — **Experimental**, **Active Development**, **Released** — so prototypes stay lightweight while public releases remain reproducible.
 
 ```text
 AURIORA Engineering Standard (AES)
@@ -38,11 +40,11 @@ AURIORA Engineering Standard (AES)
 | `ASSG` | AURIORA Software Style Guide | [auriora-software-style-guide](https://github.com/auriora-org/auriora-software-style-guide) | Stable |
 | `ADS` | AURIORA Documentation Standard | [auriora-documentation-standard](https://github.com/auriora-org/auriora-documentation-standard) | Stable |
 
-Document identifiers are allocated in the [AES document register](https://github.com/auriora-org/auriora-engineering-standard/blob/main/docs/registers/document-register.md).
+Document identifiers are recorded in the [AES document index](https://github.com/auriora-org/auriora-engineering-standard/blob/main/docs/document-index.md).
 
 ## Hardware modules
 
-The first AURIORA module families are in development. Their repositories are published when the designs reach a releasable state; hardware maturity is expressed with the AES compliance levels (Concept, Design, Release Candidate, Released).
+The first AURIORA module families are in development. Their repositories are published when the designs reach a releasable state; hardware maturity is expressed with the AES maturity levels (Experimental, Active Development, Released).
 
 | ID | Module | Repository | Status |
 |---|---|---|---|
@@ -79,7 +81,7 @@ Research notes, experiments, datasets and publications will appear here as publi
 - **Planned** — repository or project not yet published
 - **Archived** — no longer actively maintained
 
-Repository status describes maturity, not commercial availability. For hardware, product maturity is expressed separately with the AES compliance levels.
+Repository status describes maturity, not commercial availability. For hardware, product maturity is expressed separately with the AES maturity levels (Experimental, Active Development, Released).
 
 ## Repository naming convention
 
