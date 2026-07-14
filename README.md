@@ -40,7 +40,7 @@ AURIORA Engineering Standard (AES)
 | `ASSG` | AURIORA Software Style Guide | [auriora-software-style-guide](https://github.com/auriora-org/auriora-software-style-guide) | Stable |
 | `ADS` | AURIORA Documentation Standard | [auriora-documentation-standard](https://github.com/auriora-org/auriora-documentation-standard) | Stable |
 
-Document identifiers are recorded in the [AES document index](https://github.com/auriora-org/auriora-engineering-standard/blob/main/docs/document-index.md).
+Document identifiers are recorded in the [AES document index](https://github.com/auriora-org/auriora-engineering-standard/blob/main/docs/document-index.md). Concrete, versioned Unit Interface Profile specifications (connectors, pinouts, electrical limits) live under [`docs/interfaces/`](https://github.com/auriora-org/auriora-engineering-standard/tree/main/docs/interfaces) in the AES repository.
 
 ## Hardware modules
 

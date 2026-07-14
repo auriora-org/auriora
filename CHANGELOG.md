@@ -11,6 +11,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Standards section notes that the standards scale requirements with the AES maturity model (Experimental, Active Development, Released).
 - Hardware maturity described with the AES maturity levels.
 - Document identifier link points to the AES document index (`docs/document-index.md`).
+- Standards section links the AES Unit Interface Profile specifications (`docs/interfaces/`).
 
 ## 1.0.0 - 2026-07-10
 
