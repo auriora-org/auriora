@@ -1,6 +1,6 @@
 # AURIORA
 
-AURIORA is an open engineering and research ecosystem exploring intelligence, sensing, biological systems, embedded technology and human-machine interaction through open hardware and software.
+AURIORA is an open engineering and research ecosystem exploring intelligence, adaptation and communication across living systems through open scientific instrumentation, measurement and experimentation.
 
 This repository is the central hub of the ecosystem: the index that helps visitors, contributors and developers understand how AURIORA is structured and find the right repository, standard, guide, module or software project.
 
@@ -48,8 +48,8 @@ The first AURIORA module families are in development. Their repositories are pub
 
 | ID | Module | Repository | Status |
 |---|---|---|---|
-| `AAM-01` | Audio Module — audio stimulation: generates parametric sound patterns and plays back audio samples | Repository planned | Planned |
-| `AAC-01` | Audio Controller — controller for the audio module family | Repository planned | Planned |
+| `AAM-01` | Audio Module — programmable acoustic stimulation from synthesized signal patterns and stored audio samples | Repository planned | Planned |
+| `AAC-01` | Audio Controller — control and configuration interface for the AAM-01 Audio Module | Repository planned | Planned |
 | `APEM-01` | Plant Electrophysiology Module — measurement of plant electrical signals | Repository planned | Planned |
 | `APBM-01` | Plant Photobiology Module — light-based plant stimulation and measurement | Repository planned | Planned |
 

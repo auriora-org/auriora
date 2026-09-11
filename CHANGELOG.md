@@ -12,6 +12,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Hardware maturity described with the AES maturity levels.
 - Document identifier link points to the AES document index (`docs/document-index.md`).
 - Standards section links the AES Unit Interface Profile specifications (`docs/interfaces/`).
+- Opening description aligned with the public website: intelligence, adaptation and communication across living systems through open instrumentation, measurement and experimentation.
+- `AAM-01` described as programmable acoustic stimulation from synthesized signal patterns and stored audio samples (no longer "parametric sound"); `AAC-01` described as the control and configuration interface for the AAM-01.
 
 ## 1.0.0 - 2026-07-10
 
