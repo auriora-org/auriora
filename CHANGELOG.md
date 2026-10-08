@@ -4,6 +4,12 @@ All notable changes to the AURIORA hub are documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). Released versions are tagged in version control.
 
+## Unreleased
+
+### Changed
+
+- Opening description says "plants and the networks they live in" instead of "the networks they form", matching the website 1.3.0: mycorrhizal networks are formed by fungi, plants take part in them.
+
 ## 1.1.0 - 2026-10-04
 
 ### Changed

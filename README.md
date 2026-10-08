@@ -1,6 +1,6 @@
 # AURIORA
 
-AURIORA is an open engineering and research ecosystem exploring how intelligence emerges across very different systems through open scientific instrumentation, measurement and experimentation, beginning with plants and the networks they form.
+AURIORA is an open engineering and research ecosystem exploring how intelligence emerges across very different systems through open scientific instrumentation, measurement and experimentation, beginning with plants and the networks they live in.
 
 This repository is the central hub of the ecosystem: the index that helps visitors, contributors and developers understand how AURIORA is structured and find the right repository, standard, guide, module or software project.
 
