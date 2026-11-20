@@ -4,6 +4,12 @@ All notable changes to the AURIORA hub are documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). Released versions are tagged in version control.
 
+## Unreleased
+
+### Changed
+
+- The hub no longer takes issues or pull requests. The Contributing section, the contact list and `CONTRIBUTING.md` point index corrections and suggestions to contact@auriora.org; technical matters still belong in the repository where the work lives.
+
 ## 1.1.1 - 2026-10-08
 
 ### Changed

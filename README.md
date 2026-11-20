@@ -94,7 +94,7 @@ All public AURIORA repositories follow one naming scheme:
 
 ## Contributing
 
-Identify the correct repository first, read its contribution instructions and open issues where the work belongs. This hub accepts issues only for broken links, missing or incorrect repository entries, and ecosystem structure suggestions — see [CONTRIBUTING.md](./CONTRIBUTING.md).
+Identify the correct repository first, read its contribution instructions and raise the matter where the work belongs. This hub does not take issues or pull requests. Broken links, missing or incorrect repository entries, and ecosystem structure suggestions are welcome by email — see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 All AURIORA projects follow the applicable [standards and guides](#standards-and-guides).
 
@@ -108,7 +108,7 @@ This hub repository is licensed under the [Creative Commons Attribution-ShareAli
 
 - Website: [auriora.org](https://auriora.org)
 - Email: [contact@auriora.org](mailto:contact@auriora.org)
-- Repository-specific questions: the issue tracker of the repository concerned
+- Repository-specific questions: the issue tracker of the repository concerned, where it has one
 
 ## Maintenance rules
 
